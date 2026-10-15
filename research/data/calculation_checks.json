@@ -1,0 +1,52 @@
+{
+  "checks": {
+    "产业份额合计": true,
+    "居民来源份额合计": true,
+    "货物总额恒等式": true,
+    "货物差额恒等式": true,
+    "风险分担守恒": true
+  },
+  "price_example": {
+    "labour_A": 0.625,
+    "labour_B": 0.5,
+    "labour_ratio": 1.25,
+    "price_A": 0.6578947368421053,
+    "price_B": 0.5657894736842105,
+    "price_ratio": 1.1627906976744187
+  },
+  "wid_internal_check": {
+    "published_bottom_share": 13.7,
+    "bottom_share_implied_by_means": 6.904695748819116,
+    "published_top_bottom_mean_ratio": 31.4,
+    "mean_ratio_implied_by_shares": 15.802919708029195,
+    "status": "UNRESOLVED_SOURCE_INCONSISTENCY; not silently repaired",
+    "source_id": "WID2026",
+    "locator": "China, Table 1, printed page 166",
+    "bottom_mean_income": 1988,
+    "full_population_mean_income": 14396,
+    "bottom_population_fraction": 0.5,
+    "bottom_mean_wealth": 5447,
+    "full_mean_wealth": 86462,
+    "published_bottom_wealth_share": 6.3,
+    "bottom_wealth_share_implied_by_means": 3.1499387013948326,
+    "disposition": "Audit only; published values are not silently corrected and are not used for precise distribution conclusions."
+  },
+  "no_new_microdata_regression": true,
+  "expansion_examples": {
+    "classification": "All scenarios below are hypothetical teaching examples, not observed China data or forecasts.",
+    "task_hours_before": 10,
+    "task_hours_after": 6,
+    "task_volume_ratio_for_constant_total_hours": 1.6666666666666667,
+    "energy_intensity_ratio": 0.9,
+    "output_ratio": 1.2,
+    "total_energy_ratio": 1.08,
+    "care_setup_cost_in_10k_yuan": 100,
+    "annual_operations_in_10k_yuan": 60,
+    "care_five_year_operations_in_10k_yuan": 300,
+    "debt_after_5_periods_growth5_interest3": 90.83215713225503,
+    "debt_after_5_periods_growth2_interest5": 115.59675331741161,
+    "profit_rate": 0.1,
+    "profit_share": 0.2,
+    "capital_productivity": 0.5
+  }
+}

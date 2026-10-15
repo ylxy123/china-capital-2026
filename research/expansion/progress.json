@@ -1,0 +1,12 @@
+{
+  "source_sha256": "e3c64d9bcf23edcae6d7ca73f28e66e05871bece944ab0f8067561b3ffd7f578",
+  "baseline_paragraphs": 291,
+  "expanded_paragraphs": 291,
+  "pending": [],
+  "body_CJK_including_headings_and_captions": 121506,
+  "strict_body_CJK": 119168,
+  "completion_status": "complete",
+  "native_compile": "success",
+  "pdf_pages": 143,
+  "pdf_matches_source": true
+}

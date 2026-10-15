@@ -1,0 +1,162 @@
+[
+  {
+    "id": "MarxPrice",
+    "author": "马克思",
+    "title": "资本论第三卷，第九章：一般利润率的形成和商品价值转化为生产价格",
+    "year": "1894",
+    "url": "https://www.marxists.org/archive/marx/works/1894-c3/ch09.htm",
+    "locator": "第九章；公开原文",
+    "checked": "2026-10-15",
+    "cutoff": "2026-10-14"
+  },
+  {
+    "id": "Card2022",
+    "author": "David Card",
+    "title": "Who Set Your Wage?",
+    "year": "2022",
+    "url": "https://www.aeaweb.org/articles?id=10.1257/aer.112.4.1075",
+    "locator": "American Economic Review 112(4):1075–1090；原刊摘要与公开稿入口",
+    "checked": "2026-10-15",
+    "cutoff": "2026-10-14"
+  },
+  {
+    "id": "Wright1985",
+    "author": "Erik Olin Wright",
+    "title": "Classes: The Biography of a Concept—Contradictory Class Locations",
+    "year": "1985",
+    "url": "https://www.sscc.wisc.edu/soc/faculty/pages/wright/Published%20writing/classes-2.pdf",
+    "locator": "第二章；作者高校主页公开章节",
+    "checked": "2026-10-15",
+    "cutoff": "2026-10-14"
+  },
+  {
+    "id": "Chamon2010",
+    "author": "Marcos Chamon, Kai Liu, Eswar Prasad",
+    "title": "Income Uncertainty and Household Savings in China",
+    "year": "2010/2013",
+    "url": "https://www.nber.org/papers/w16565",
+    "locator": "NBER WP 16565；正式版JDE 105:164–177；1989—2006年家庭资料",
+    "checked": "2026-10-15",
+    "cutoff": "2026-10-14"
+  },
+  {
+    "id": "Bai2016",
+    "author": "Chong-En Bai, Chang-Tai Hsieh, Zheng Michael Song",
+    "title": "The Long Shadow of a Fiscal Expansion",
+    "year": "2016",
+    "url": "https://www.nber.org/papers/w22801",
+    "locator": "NBER WP 22801；摘要所述历史机制，不外推为2026年债务测算",
+    "checked": "2026-10-15",
+    "cutoff": "2026-10-14"
+  },
+  {
+    "id": "Migration2023",
+    "author": "Fanghua Li, Chenyang Ji, Moshe Buchinsky",
+    "title": "Social Insurance and Migration: Evidence from a Nation-Wide Institutional Reform in China",
+    "year": "2023",
+    "url": "https://www.nber.org/system/files/working_papers/w31819/w31819.pdf",
+    "locator": "NBER WP 31819；摘要及研究设计；局部效应",
+    "checked": "2026-10-15",
+    "cutoff": "2026-10-14"
+  },
+  {
+    "id": "Housing1998",
+    "author": "国务院",
+    "title": "关于进一步深化城镇住房制度改革加快住房建设的通知",
+    "year": "1998",
+    "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/201309/t20130924_776668.html",
+    "locator": "国发〔1998〕23号；第二部分；政府公开历史原文",
+    "checked": "2026-10-15",
+    "cutoff": "2026-10-14"
+  },
+  {
+    "id": "LiuTian2018",
+    "author": "刘欣、田丰",
+    "title": "社会结构研究40年：中国社会学研究者的探索",
+    "year": "2018",
+    "url": "https://www.cssn.cn/skgz/202209/t20220916_5504623.shtml",
+    "locator": "江苏社会科学2018年第4期；公开重刊，采用学术框架比较",
+    "checked": "2026-10-15",
+    "cutoff": "2026-10-14"
+  },
+  {
+    "id": "MinWage2014",
+    "author": "Yi Huang, Prakash Loungani, Gewei Wang",
+    "title": "Minimum Wages and Firm Employment: Evidence from China",
+    "year": "2014",
+    "url": "https://www.imf.org/external/pubs/ft/wp/2014/wp14184.pdf",
+    "locator": "IMF WP 14/184；研究机构摘要及作者公开说明；PDF直连受限",
+    "checked": "2026-10-15",
+    "cutoff": "2026-10-14"
+  },
+  {
+    "id": "ValueTrade2014",
+    "author": "Robert Koopman, Zhi Wang, Shang-Jin Wei",
+    "title": "Tracing Value-Added and Double Counting in Gross Exports",
+    "year": "2014",
+    "url": "https://pubs.aeaweb.org/doi/abs/10.1257/aer.104.2.459",
+    "locator": "American Economic Review 104(2):459–494；核算框架",
+    "checked": "2026-10-15",
+    "cutoff": "2026-10-14"
+  },
+  {
+    "id": "AIWork2025",
+    "author": "Erik Brynjolfsson, Danielle Li, Lindsey Raymond",
+    "title": "Generative AI at Work",
+    "year": "2025",
+    "url": "https://academic.oup.com/qje/article/140/2/889/7990658",
+    "locator": "Quarterly Journal of Economics 140(2):889–942；特定客服企业研究",
+    "checked": "2026-10-15",
+    "cutoff": "2026-10-14"
+  },
+  {
+    "id": "TradeAdjust2016",
+    "author": "David Autor, David Dorn, Gordon Hanson",
+    "title": "The China Shock: Learning from Labor Market Adjustment to Large Changes in Trade",
+    "year": "2016",
+    "url": "https://www.nber.org/papers/w21906",
+    "locator": "NBER WP 21906；美国劳动市场调整经验，仅用于比较机制",
+    "checked": "2026-10-15",
+    "cutoff": "2026-10-14"
+  },
+  {
+    "id": "Tax1994",
+    "author": "国务院",
+    "title": "关于实行分税制财政管理体制的决定",
+    "year": "1993",
+    "url": "https://yss.mof.gov.cn/zhuantilanmu/cztzgg/zcgz/200806/t20080627_54328.htm",
+    "locator": "国发〔1993〕85号；1994年起实施；财政部公开原文",
+    "checked": "2026-10-15",
+    "cutoff": "2026-10-14"
+  },
+  {
+    "id": "InjuryJilin2026",
+    "author": "吉林省社会保险事业管理局",
+    "title": "吉林省新就业形态从业人员职业伤害保障试点工作全面启动",
+    "year": "2026",
+    "url": "https://jlsi.jl.gov.cn/sbdt/202606/t20260630_9656905.html",
+    "locator": "2026-06-30；7月1日起实施；只能直接证明吉林实施",
+    "checked": "2026-10-15",
+    "cutoff": "2026-10-14"
+  },
+  {
+    "id": "AIWorkNBER",
+    "author": "Erik Brynjolfsson, Danielle Li, Lindsey R. Raymond",
+    "title": "Generative AI at Work",
+    "year": "2023",
+    "url": "https://www.nber.org/papers/w31161",
+    "locator": "NBER Working Paper 31161；2023年11月修订摘要；正式出版版本为QJE 2025，未混用不同版本的效果量",
+    "checked": "2026-10-15",
+    "cutoff": "2026-10-14"
+  },
+  {
+    "id": "ValueTradeNBER",
+    "author": "Robert Koopman, Zhi Wang, Shang-Jin Wei",
+    "title": "Tracing Value-added and Double Counting in Gross Exports",
+    "year": "2012/2013",
+    "url": "https://www.nber.org/papers/w18579",
+    "locator": "NBER WP 18579；2013年2月修订摘要；核算分解框架，正式版AER 2014",
+    "checked": "2026-10-15",
+    "cutoff": "2026-10-14"
+  }
+]

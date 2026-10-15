@@ -1,0 +1,13 @@
+{
+  "source_registry_entries": 54,
+  "cited_sources": 50,
+  "literature_appraisals": 29,
+  "issues": 14,
+  "key_data_rows": 45,
+  "claims": 5,
+  "class_positions": 9,
+  "publication_cutoff": "2026-10-14",
+  "expansion_recheck_date": "2026-10-15",
+  "new_microdata_or_causal_regressions": false,
+  "source_sha256": "e3c64d9bcf23edcae6d7ca73f28e66e05871bece944ab0f8067561b3ffd7f578"
+}

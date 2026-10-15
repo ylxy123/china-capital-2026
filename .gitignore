@@ -1,0 +1,29 @@
+# Local state and TeX build products
+build/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.DS_Store
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+# Third-party downloads and local research caches
+/china-capital-2026-research.zip
+/research/retrievals/
+/research/expansion/retrievals/
+/research/sources/*.pdf
+/research/sources/WID_metadata_CN.csv
+/research/qa/
+/research/native_tool_catalog.json
+/research/native_compile_result.json
+/research/expansion/*retrieval-audit.json
+/research/expansion/CONTINUATION.md
+/research/expansion/wid-recheck.png
+/research/研究附件说明.txt
+/research/最终核查记录.txt

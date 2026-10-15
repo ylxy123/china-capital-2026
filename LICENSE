@@ -1,0 +1,20 @@
+Licensing scope / 授权范围
+
+Copyright (c) 2026 姚林翔宇 (Linxiangyu Yao)
+
+This repository uses separate licenses for content and software, not a choice
+between two licenses for the same material.
+
+1. Original book content, china-capital-2026.tex, china-capital-2026.pdf,
+   original research notes, documentation, and original tables/figures:
+   Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA-4.0).
+   Full terms: LICENSE-CONTENT.
+2. Software (*.py, Makefile, .github/workflows/*.yml) and associated software
+   usage instructions: MIT. Full terms: LICENSE-CODE.
+3. Third-party quotations, bibliographic material and source data remain
+   subject to their original rights and terms. No additional rights in those
+   materials are granted by this repository. See THIRD_PARTY_NOTICES.md.
+
+书稿及原创研究内容使用 CC BY-SA 4.0；程序代码使用 MIT。
+LaTeX 文件作为书稿整体适用 CC BY-SA 4.0，不因其为源码而转为 MIT。
+第三方材料不属于本项目可重新授权的范围。

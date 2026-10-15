@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "引用本书时请使用以下信息，并附具体章节或段落锚点。"
+type: book
+title: "新时代资本论：2026年中国大陆的生产、分配与风险"
+authors:
+  - family-names: "姚"
+    given-names: "林翔宇"
+version: "1.0.0"
+date-released: "2026-10-15"
+url: "https://github.com/ylxy123/china-capital-2026"
+repository-code: "https://github.com/ylxy123/china-capital-2026"
+license: CC-BY-SA-4.0
+keywords:
+  - 政治经济学
+  - 中国经济
+  - 收入分配
+  - 风险
+abstract: "研究中国大陆的生产、分配与风险的中文原创专论；扩充修订版。书稿使用 CC BY-SA 4.0，软件代码另按 MIT 授权。"

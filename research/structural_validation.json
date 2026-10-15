@@ -1,0 +1,98 @@
+{
+  "body_CJK_characters": 119168,
+  "count_definition": "Narrative Han characters only; excludes headings, tables, figures/captions, labels, citations, math, code, frontmatter, appendices and bibliography.",
+  "body_CJK_including_headings_tables_captions": 121506,
+  "total_CJK_characters": 128795,
+  "numbered_main_chapters": 12,
+  "per_chapter": [
+    {
+      "chapter": "导论：为什么需要重新研究资本",
+      "narrative_CJK": 7276
+    },
+    {
+      "chapter": "中国经济的制度结构",
+      "narrative_CJK": 7924
+    },
+    {
+      "chapter": "商品、价值与价格",
+      "narrative_CJK": 7891
+    },
+    {
+      "chapter": "劳动、技术与剩余",
+      "narrative_CJK": 7698
+    },
+    {
+      "chapter": "企业、所有权与控制权",
+      "narrative_CJK": 7446
+    },
+    {
+      "chapter": "货币、信用与资本循环",
+      "narrative_CJK": 7372
+    },
+    {
+      "chapter": "土地、住房与地方财政",
+      "narrative_CJK": 7532
+    },
+    {
+      "chapter": "家庭与社会再生产",
+      "narrative_CJK": 7751
+    },
+    {
+      "chapter": "收入、财富与社会位置",
+      "narrative_CJK": 13970
+    },
+    {
+      "chapter": "平台、数据与人工智能",
+      "narrative_CJK": 9319
+    },
+    {
+      "chapter": "制造业与全球联系",
+      "narrative_CJK": 9162
+    },
+    {
+      "chapter": "积累、失衡与危机",
+      "narrative_CJK": 10362
+    },
+    {
+      "chapter": "制度改进的条件与代价",
+      "narrative_CJK": 11996
+    },
+    {
+      "chapter": "结语：一套允许被修正的政治经济学",
+      "narrative_CJK": 3469
+    }
+  ],
+  "figure_count": 12,
+  "figure_names": [
+    "sector",
+    "prices",
+    "migrantpay",
+    "rights",
+    "credit",
+    "risk",
+    "fiscal",
+    "care",
+    "income",
+    "classflow",
+    "trade",
+    "debt"
+  ],
+  "cited_sources": 50,
+  "bibliography_entries": 53,
+  "missing_citations": [],
+  "uncited_entries": [
+    "AIWork2025",
+    "Injury2026",
+    "ValueTrade2014"
+  ],
+  "missing_figures": [],
+  "missing_crossrefs": [],
+  "duplicate_labels": [],
+  "duplicate_bibliography_keys": [],
+  "baseline_paragraphs": 291,
+  "mapped_paragraphs": 291,
+  "pending_paragraphs": [],
+  "duplicate_long_narrative_paragraphs": [],
+  "external_input_commands": [],
+  "source_sha256": "e3c64d9bcf23edcae6d7ca73f28e66e05871bece944ab0f8067561b3ffd7f578"
+}

@@ -9,7 +9,7 @@
 
 本书围绕四个问题展开：财富怎样生产，资源与决策由谁控制，收益怎样分配，风险最终由谁承担。通过生产账、权利与收入账、再生产与风险账，将企业、劳动、土地、金融、家庭与公共服务放在同一分析框架中。
 
-这是原创研究专论，并非马克思《资本论》的译本或改写。仓库开放书稿、排版源码、研究脚本、来源索引、数据复算与段落审计资料，方便阅读、质疑、复核与改进。
+本书是作者姚林翔宇历时数年研究与撰写的原创研究专论，并非马克思《资本论》的译本或改写。仓库开放书稿、排版源码、研究脚本、来源索引、数据复算与段落审计资料，方便阅读、质疑、复核与改进。
 
 ## 版本与研究边界
 
@@ -94,4 +94,4 @@ make pdf
 
 ## English
 
-*Capital in a New Era: Production, Distribution, and Risk in Mainland China (2026)* is a Chinese-language research monograph by Linxiangyu Yao. This repository contains the complete PDF, self-contained LaTeX manuscript, Python research scripts, source registers, and calculation/audit tables. Original content is licensed under CC BY-SA 4.0; software is licensed under MIT. Third-party material retains its original rights. See the reproducibility guide for build instructions and research limitations.
+*Capital in a New Era: Production, Distribution, and Risk in Mainland China (2026)* is a Chinese-language research monograph by Linxiangyu Yao, the result of several years of research and writing. This repository contains the complete PDF, self-contained LaTeX manuscript, Python research scripts, source registers, and calculation/audit tables. Original content is licensed under CC BY-SA 4.0; software is licensed under MIT. Third-party material retains its original rights. See the reproducibility guide for build instructions and research limitations.
